@@ -1,0 +1,9 @@
+[ 2023-03-16 00:23:46,492 ] 22 root - INFO - Entered the data ingestion method or component
+[ 2023-03-16 00:23:48,015 ] 25 root - INFO - Read the dataset as dataframe
+[ 2023-03-16 00:23:48,080 ] 42 root - INFO - Inmgestion of the data iss completed
+[ 2023-03-16 00:23:48,102 ] 120 root - INFO - Read the raw data
+[ 2023-03-16 00:23:48,102 ] 122 root - INFO - Obtaining preprocessing object
+[ 2023-03-16 00:23:48,413 ] 94 root - INFO - Categorical columns: ['Airline', 'Source', 'Destination', 'Total_Stops']
+[ 2023-03-16 00:23:48,413 ] 95 root - INFO - Numerical columns: ['Journey_day', 'Journey_month', 'Journey_year', 'hours', 'minutes', 'Arrival_hour', 'Arrival_min', 'duration-mins', 'duration-hours']
+[ 2023-03-16 00:23:48,413 ] 107 root - INFO - Train test split initiated
+[ 2023-03-16 00:23:48,415 ] 133 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

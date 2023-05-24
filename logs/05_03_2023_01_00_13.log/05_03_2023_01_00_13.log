@@ -1,0 +1,3 @@
+[ 2023-05-03 01:00:13,817 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-03 01:00:13,818 ] 186 werkzeug - INFO -  * Debugger PIN: 213-133-730
+[ 2023-05-03 01:00:43,496 ] 186 werkzeug - INFO -  * Detected change in '/config/workspace/application.py', reloading

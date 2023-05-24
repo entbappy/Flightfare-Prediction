@@ -1,0 +1,4 @@
+[ 2023-03-19 13:47:12,570 ] 26 root - INFO - Entered the data cleaning method or component
+[ 2023-03-19 13:47:12,596 ] 31 root - INFO - Read the dataset as dataframe
+[ 2023-03-19 13:47:12,608 ] 38 root - INFO - processingthe training dataset as dataframe
+[ 2023-03-19 13:47:12,865 ] 72 root - INFO - processingthe test dataset as dataframe

@@ -1,0 +1,15 @@
+[ 2023-03-23 04:03:58,712 ] 24 root - INFO - Entered the data ingestion method or component
+[ 2023-03-23 04:04:00,156 ] 27 root - INFO - Read the dataset as dataframe
+[ 2023-03-23 04:04:00,218 ] 34 root - INFO - Train test split initiated
+[ 2023-03-23 04:04:00,282 ] 44 root - INFO - Inmgestion of the data iss completed
+[ 2023-03-23 04:04:00,282 ] 27 root - INFO - Entered the data cleaning method or component
+[ 2023-03-23 04:04:00,307 ] 32 root - INFO - Read the dataset as dataframe
+[ 2023-03-23 04:04:00,319 ] 39 root - INFO - processingthe training dataset as dataframe
+[ 2023-03-23 04:04:00,702 ] 80 root - INFO - processingthe test dataset as dataframe
+[ 2023-03-23 04:04:00,703 ] 94 root - INFO - ended the loop
+[ 2023-03-23 04:04:00,715 ] 109 root - INFO - ended he loop
+[ 2023-03-23 04:04:00,715 ] 111 root - INFO - returning done
+[ 2023-03-23 04:04:00,716 ] 114 root - INFO - directory created
+[ 2023-03-23 04:04:00,760 ] 118 root - INFO - df1 saved
+[ 2023-03-23 04:04:00,771 ] 120 root - INFO - df2 saved
+[ 2023-03-23 04:04:00,771 ] 122 root - INFO - Train test data cleaned

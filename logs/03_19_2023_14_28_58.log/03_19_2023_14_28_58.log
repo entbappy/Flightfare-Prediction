@@ -1,0 +1,8 @@
+[ 2023-03-19 14:28:59,577 ] 23 root - INFO - Entered the data ingestion method or component
+[ 2023-03-19 14:29:01,056 ] 26 root - INFO - Read the dataset as dataframe
+[ 2023-03-19 14:29:01,118 ] 33 root - INFO - Train test split initiated
+[ 2023-03-19 14:29:01,183 ] 43 root - INFO - Inmgestion of the data iss completed
+[ 2023-03-19 14:29:01,184 ] 26 root - INFO - Entered the data cleaning method or component
+[ 2023-03-19 14:29:01,209 ] 31 root - INFO - Read the dataset as dataframe
+[ 2023-03-19 14:29:01,221 ] 38 root - INFO - processingthe training dataset as dataframe
+[ 2023-03-19 14:29:01,471 ] 72 root - INFO - processingthe test dataset as dataframe

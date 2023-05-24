@@ -1,0 +1,3 @@
+[ 2023-03-15 21:20:44,004 ] 23 root - INFO - Entered the data ingestion method or component
+[ 2023-03-15 21:20:45,507 ] 26 root - INFO - Read the dataset as dataframe
+[ 2023-03-15 21:20:45,574 ] 41 root - INFO - Inmgestion of the data iss completed

@@ -1,0 +1,9 @@
+[ 2023-05-03 01:00:12,828 ] 186 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.5:8080
+[ 2023-05-03 01:00:12,829 ] 186 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-05-03 01:00:12,829 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-03 01:00:43,651 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-03 01:01:06,575 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-03 01:01:23,037 ] 186 werkzeug - INFO -  * Restarting with stat
